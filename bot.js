@@ -34,6 +34,7 @@ ban(bot, {
 status(bot, {
   type: "PLAYING", //PLAYING, WATCHING, STREAMING
   title: "discord international"
+  url:"https://discord.gg/2BGABDgK8C"
 });
 say(bot, {
   prefix:"!",
